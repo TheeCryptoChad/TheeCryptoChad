@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Chad, enjoy this gif of my pet skunk giving my dog a belly rub
+
 ![Video Preview](src/bellyrub.gif)
 
 <!--
