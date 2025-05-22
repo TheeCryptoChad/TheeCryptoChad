@@ -34,17 +34,11 @@ Founder of [Bitforge](https://www.bitforge.studio), where I work with startups, 
 ### 🔧 Toolchain
 
 ```ts
-Languages:   TypeScript • JavaScript • SQL • Rust • Go
-Frameworks:  Next.js • React • Prisma • tRPC • Tailwind • Firebase • Express
-Infra:       Vercel • AWS • Docker • Supabase • GCP
-Blockchain:  Solana • Anchor • Umi • SPL Token 2022 • Bubblegum • Metaplex • Light Protocol
-Data:        PostgreSQL • Firestore • Redis • Stripe
-Tooling:     GitHub Actions • Terraform • Vite • Playwright
-
-
-
-
-
+Languages:   TypeScript • JavaScript • SQL • Rust • Go • C • C++ • Python
+Frameworks:  Next.js • React • Tailwind • Anchor • Hardhat
+Infra:       Vercel • AWS • Docker • GCP
+Blockchain:  Solana • Ethereum • Binance
+Data:        PostgreSQL • Firestore • Prisma
 ```
 
 Enjoy this gif of my pet skunk giving my dog a belly rub
