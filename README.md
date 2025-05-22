@@ -8,7 +8,7 @@
 
 I’m a full-stack software engineer with a background in high-leverage systems, real-time web applications, and Web3 infrastructure. I care deeply about performance, clarity, and longevity in the software I build.
 
-Founder of [Bitforge](https://www.bitforge.studio), where I work with startups, founders, and internal teams to architect reliable systems and solve hard technical problems.
+Founder of [Bitforge](https://www.bitforge.studio), where I work with startups, founders, and internal teams to architect reliable systems and solve difficult technical problems.
 
 ---
 
