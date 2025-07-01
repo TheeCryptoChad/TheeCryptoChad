@@ -16,16 +16,6 @@ Through my studio, Bitforge, I've delivered 10+ full-stack applications — rang
 
 ---
 
-### 🚀 Recent Work Includes
-
-- Real-time analytics pipelines
-- Crypto and fintech dashboards
-- Billing and subscription systems
-- Internal developer tools
-- End-to-end MVPs for early-stage startups
-
----
-
 ### 📌 I'm Currently...
 
 - Open to **full-time software engineering roles** (remote or hybrid)
