@@ -1,46 +1,40 @@
-### Hi, I am Cutter <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# 👋 Hi, I'm Cutter
 
-<h3 align="center">Founder @ Bitforge • Software Architect • Systems Thinker</h3>
+I'm a full-stack software engineer and technical founder with 5+ years of experience building scalable software across startups, solo founders, and internal teams.
 
----
-
-### About
-
-I’m a full-stack software engineer with a background in high-leverage systems, real-time web applications, and Web3 infrastructure. I care deeply about performance, clarity, and longevity in the software I build.
-
-Founder of [Bitforge](https://www.bitforge.studio), where I work with startups, founders, and internal teams to architect reliable systems and solve difficult technical problems.
+Through my studio, Bitforge, I've delivered 10+ full-stack applications — ranging from SaaS MVPs and internal tools to developer infrastructure and real-time data systems.
 
 ---
 
-### 🧠 Areas of Focus
+### 🛠 Tech I Work With
 
-- **Architecture & System Design**  
-  Scalable service architecture, backend infrastructure, serverless compute, modular systems
-
-- **Web Engineering**  
-  TypeScript, React, Next.js (App Router), Recoil, React Query, Tailwind, Firebase, tRPC
-
-- **Databases & Data Modeling**  
-  PostgreSQL, Prisma, Firestore, schema-first design, event tracking, permission systems
-
-- **Blockchain / Web3**  
-  Solana, Anchor, cNFTs, SPL tokens, on-chain swaps, custom RPC integrations, Helius, Umi
-
-- **Tooling & Automation**  
-  Dev tooling, CI/CD pipelines (GitHub Actions), Stripe integrations, internal admin tools
+- **Languages**: TypeScript, JavaScript, Python
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js, MongoDB, Firebase, PostgreSQL
+- **Infra**: AWS, Vercel
+- **Tooling**: tRPC, Prisma, Recoil, React Query
 
 ---
 
-### 🔧 Toolchain
+### 🚀 Recent Work Includes
 
-```ts
-Languages:   TypeScript • JavaScript • SQL • Rust • Go • C • C++ • Python
-Frameworks:  Next.js • React • Tailwind • Anchor • Hardhat
-Infra:       Vercel • AWS • Docker • GCP
-Blockchain:  Solana • Ethereum • Binance
-Data:        PostgreSQL • Firestore • Prisma
-```
+- Real-time analytics pipelines
+- Crypto and fintech dashboards
+- Billing and subscription systems
+- Internal developer tools
+- End-to-end MVPs for early-stage startups
 
-Enjoy this gif of my pet skunk giving my dog a belly rub
+---
 
-![Video Preview](src/bellyrub.gif)
+### 📌 I'm Currently...
+
+- Open to **full-time software engineering roles** (remote or hybrid)
+- Especially interested in impactful, product-driven teams
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/cutter-bruce/)
+- [bitforge.studio](https://www.bitforge.studio)
+- Email: cutterdbruce@gmail.com
