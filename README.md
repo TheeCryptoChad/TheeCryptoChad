@@ -8,7 +8,7 @@ Through my studio, Bitforge, I've delivered 10+ full-stack applications — rang
 
 ### 🛠 Tech I Work With
 
-- **Languages**: TypeScript, JavaScript, Python
+- **Languages**: TypeScript, JavaScript, Python, Solidity
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, MongoDB, Firebase, PostgreSQL
 - **Infra**: AWS, Vercel
