@@ -22,7 +22,7 @@ Through my studio, **Bitforge**, I've delivered 10+ full-stack applications — 
 [![Languages](https://skillicons.dev/icons?i=ts,js,py,rust,bash,solidity&perline=6)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,redux&perline=6)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,sass,redux&perline=8)](https://skillicons.dev)
 
 ### Backend & Databases
 [![Backend & Databases](https://skillicons.dev/icons?i=nodejs,prisma,mongodb,mysql,postgres,firebase&perline=6)](https://skillicons.dev)
@@ -59,23 +59,24 @@ Through my studio, **Bitforge**, I've delivered 10+ full-stack applications — 
 
 ## 📊 GitHub Stats
 
-![Profile Details](./profile-summary-card-output/tokyonight/0-profile-details.svg)
-
-<table>
-  <tr>
-    <td><img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" /></td>
-    <td><img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" /></td>
-  </tr>
-  <tr>
-    <td><img src="./profile-summary-card-output/tokyonight/3-stats.svg" /></td>
-    <td><img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <br/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+  <br/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cutter-bruce/)
 [![Bitforge](https://img.shields.io/badge/Bitforge.studio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bitforge.studio)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cutterdbruce@gmail.com)
+
+</div>
