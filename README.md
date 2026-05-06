@@ -72,12 +72,6 @@ Through my studio, **Bitforge**, I've delivered 10+ full-stack applications — 
 
 ---
 
-## 📌 I'm Currently...
-
-- Open to **full-time software engineering roles** (remote or hybrid)
-- Especially interested in impactful, product-driven teams
-
----
 
 ## 📫 Let's Connect
 
