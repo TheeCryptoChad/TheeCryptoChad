@@ -19,20 +19,27 @@ Through my studio, **Bitforge**, I've delivered 10+ full-stack applications — 
 ## 🛠️ Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=typescript,js,python,rust,bash&perline=5)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=typescript,js,python,rust,bash,solidity&perline=6)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,redux&perline=6)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Backend & Databases](https://skillicons.dev/icons?i=prisma,mongodb,mysql,postgresql,firebase&perline=5)](https://skillicons.dev)
+[![Backend & Databases](https://skillicons.dev/icons?i=nodejs,prisma,mongodb,mysql,postgresql,firebase&perline=6)](https://skillicons.dev)
 
-### DevOps & Tools
-[![DevOps & Tools](https://skillicons.dev/icons?i=docker,github&perline=2)](https://skillicons.dev)
+### Cloud & Infrastructure
+[![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,gcp,vercel,stripe,docker,github&perline=6)](https://skillicons.dev)
 
-### Libraries & Tooling
+### Blockchain
+[![Blockchain](https://skillicons.dev/icons?i=solana,ethereum&perline=2)](https://skillicons.dev)
+
+### Tooling & OS
+[![Tooling & OS](https://skillicons.dev/icons?i=bun,npm,yarn,turborepo,storybook,linux,kali&perline=7)](https://skillicons.dev)
+
+### Libraries & Additional Tools
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-9945FF?style=for-the-badge&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
