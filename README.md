@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/TheeCryptoChad/count.svg" alt="Visitor's Count" />
 </div>
 
 I'm a full-stack software engineer and technical founder with 5+ years of experience building scalable software across startups, solo founders, and internal teams.
