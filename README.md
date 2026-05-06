@@ -19,28 +19,33 @@ Through my studio, **Bitforge**, I've delivered 10+ full-stack applications — 
 ## 🛠️ Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=typescript,js,python,rust,bash,solidity&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,rust,bash,solidity&perline=6)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,redux&perline=6)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Backend & Databases](https://skillicons.dev/icons?i=nodejs,prisma,mongodb,mysql,postgresql,firebase&perline=6)](https://skillicons.dev)
+[![Backend & Databases](https://skillicons.dev/icons?i=nodejs,prisma,mongodb,mysql,postgres,firebase&perline=6)](https://skillicons.dev)
 
 ### Cloud & Infrastructure
-[![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,gcp,vercel,stripe,docker,github&perline=6)](https://skillicons.dev)
-
-### Blockchain
-[![Blockchain](https://skillicons.dev/icons?i=solana,ethereum&perline=2)](https://skillicons.dev)
+[![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,gcp,vercel,docker,github&perline=5)](https://skillicons.dev)
 
 ### Tooling & OS
-[![Tooling & OS](https://skillicons.dev/icons?i=bun,npm,yarn,turborepo,storybook,linux,kali&perline=7)](https://skillicons.dev)
+[![Tooling & OS](https://skillicons.dev/icons?i=bun,npm,yarn,linux,kali&perline=5)](https://skillicons.dev)
 
-### Libraries & Additional Tools
+### Blockchain
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-9945FF?style=for-the-badge&logoColor=white)
+
+### Additional Libraries & Tools
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
