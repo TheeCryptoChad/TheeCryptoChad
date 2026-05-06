@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Cutter
 
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
 I'm a full-stack software engineer and technical founder with 5+ years of experience building scalable software across startups, solo founders, and internal teams.
 
 Through my studio, Bitforge, I've delivered 10+ full-stack applications — ranging from SaaS MVPs and internal tools to developer infrastructure and real-time data systems.
