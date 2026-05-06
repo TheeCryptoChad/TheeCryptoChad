@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Cutter
 
-<div align="center">
+<!-- <div align="center">
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/TheeCryptoChad/count.svg" alt="Visitor's Count" />
-</div>
+</div> -->
 
 I'm a full-stack software engineer and technical founder with 5+ years of experience building scalable software across startups, solo founders, and internal teams.
 
