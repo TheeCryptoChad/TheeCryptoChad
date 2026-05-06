@@ -59,10 +59,20 @@ Through my studio, **Bitforge**, I've delivered 10+ full-stack applications — 
 
 ## 📊 GitHub Stats
 
-![Metrics](./assets/github-metrics.svg)
+![Profile Details](./profile-summary-card-output/tokyonight/0-profile-details.svg)
+
+<table>
+  <tr>
+    <td><img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" /></td>
+    <td><img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" /></td>
+  </tr>
+  <tr>
+    <td><img src="./profile-summary-card-output/tokyonight/3-stats.svg" /></td>
+    <td><img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" /></td>
+  </tr>
+</table>
 
 ---
-
 
 ## 📫 Let's Connect
 
