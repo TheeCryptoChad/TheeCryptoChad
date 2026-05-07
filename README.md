@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Cutter 👋
+# Hello, I'm Cutter 👋
 
 **Full-stack engineer & technical founder · Building scalable products through [Bitforge](https://www.bitforge.studio)**
 
@@ -10,9 +10,7 @@
 
 ---
 
-I'm a full-stack software engineer and technical founder with 5+ years of experience building scalable software across startups, solo founders, and internal teams.
-
-Through my studio, **Bitforge**, I've delivered 10+ full-stack applications — ranging from SaaS MVPs and internal tools to developer infrastructure and real-time data systems.
+I build all sorts of things, for all sorts of people. I occasionally open source bits of my projects. 
 
 ---
 
