@@ -2,7 +2,7 @@
 
 # Hello, I'm Cutter 👋
 
-**Full-stack engineer & technical founder · Building scalable products through [Bitforge](https://www.bitforge.studio)**
+**Full-stack engineer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheeCryptoChad&color=blueviolet&label=Profile+Views&style=flat-square)
 
