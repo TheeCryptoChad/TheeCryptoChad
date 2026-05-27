@@ -10,25 +10,30 @@
 
 ---
 
-I build all sorts of things, for all sorts of people. I occasionally open source bits of my projects. 
+I build all sorts of things, for all sorts of people. I occasionally open source bits of my projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 [![Languages](https://skillicons.dev/icons?i=ts,js,py,rust,bash,solidity&perline=6)](https://skillicons.dev)
 
 ### Frontend
+
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,sass,redux&perline=8)](https://skillicons.dev)
 
 ### Backend & Databases
+
 [![Backend & Databases](https://skillicons.dev/icons?i=nodejs,prisma,mongodb,mysql,postgres,firebase&perline=6)](https://skillicons.dev)
 
 ### Cloud & Infrastructure
+
 [![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,gcp,vercel,docker,github&perline=5)](https://skillicons.dev)
 
 ### Tooling & OS
+
 [![Tooling & OS](https://skillicons.dev/icons?i=bun,npm,yarn,linux,kali&perline=5)](https://skillicons.dev)
 
 ### Blockchain
